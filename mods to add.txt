@@ -1,38 +1,4 @@
-immersive engineering
-
-create
-
-TeraForged
-
-tinkers construct
-tinkers tool levelling
-
-Kitsu's ForgeCraft(?)
-
-waystones
-
-thaumcraft
-
-baubles
-bountiful baubles
-
-astral sorcery
-
-roguelike dungeons
-
-viescraft airships
-
 scaling health
 
-improved backpacks
-
-aether II
-
-cosmetic armour
-
-customized dungeon loot
-
-mystcraft
-
-stargate
+dungeon crawl
 
